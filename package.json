@@ -1,0 +1,13 @@
+{
+  "name": "canadian_elections_forecast",
+  "version": "0.1.0",
+  "description": "Downloads, analyzes, and displays Canadian Federal Election data",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tom-js-python/canadian_elections_forecast.git"
+  },
+  "author": "Tom-js-python <tomrembrown@proton.me>",
+  "license": "ISC",
+  "private": true,
+  "packageManager": "yarn@4.4.0"
+}
